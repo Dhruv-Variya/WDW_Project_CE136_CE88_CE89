@@ -1,6 +1,14 @@
 # WDW_Project_CE136_CE88_CE89
 responsive restaurant website using HTML , CSS  And JAVA SCRIPT. 
 
+
+
+- Website loading animation 
+- by gif image and set by javascript as a loader 
+
+
+![image](https://user-images.githubusercontent.com/86519206/138053147-7935a2c2-854e-4058-bf87-ed0a05dad1c2.png)
+
 - HOME SECTION
 - there is header at the top it contains logo and some icons like : cart and liked items icons....
 - there is side bar at left side .
