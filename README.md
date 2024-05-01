@@ -1,4 +1,5 @@
-# WDW_Project_CE136_CE88_CE89
+# FOODIES
+### WDW_Project_CE136_CE88_CE89
 Responsive Restaurant website using HTML, CSS And JavaScript. 
 -loading animation 
 ![image](https://user-images.githubusercontent.com/86519206/138053147-7935a2c2-854e-4058-bf87-ed0a05dad1c2.png)
